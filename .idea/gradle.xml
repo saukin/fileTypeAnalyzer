@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/File Type Analyzer/task" />
+            <option value="$PROJECT_DIR$/Problems/Alice plays letter cubes (v1)" />
+            <option value="$PROJECT_DIR$/Problems/Alice plays letter cubes (v2)" />
+            <option value="$PROJECT_DIR$/Problems/All occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Calculating a substring hash" />
+            <option value="$PROJECT_DIR$/Problems/Check whether a number is prime" />
+            <option value="$PROJECT_DIR$/Problems/Count the number of merge operations" />
+            <option value="$PROJECT_DIR$/Problems/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Execute Callable objects" />
+            <option value="$PROJECT_DIR$/Problems/Filtering the list" />
+            <option value="$PROJECT_DIR$/Problems/Find a value's index" />
+            <option value="$PROJECT_DIR$/Problems/Finding a string in a matrix (v1)" />
+            <option value="$PROJECT_DIR$/Problems/Finding a string in a matrix (v2)" />
+            <option value="$PROJECT_DIR$/Problems/Greek letters" />
+            <option value="$PROJECT_DIR$/Problems/Handling interruptions" />
+            <option value="$PROJECT_DIR$/Problems/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Problems/How many tasks are finished" />
+            <option value="$PROJECT_DIR$/Problems/Interrupting a thread" />
+            <option value="$PROJECT_DIR$/Problems/Max and Min" />
+            <option value="$PROJECT_DIR$/Problems/Merge all sequences" />
+            <option value="$PROJECT_DIR$/Problems/Messaging" />
+            <option value="$PROJECT_DIR$/Problems/Non-overlapping occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Non-overlapping occurrences (1)" />
+            <option value="$PROJECT_DIR$/Problems/Pick your team" />
+            <option value="$PROJECT_DIR$/Problems/Repetitive Substring" />
+            <option value="$PROJECT_DIR$/Problems/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems/The first occurrence" />
+            <option value="$PROJECT_DIR$/Problems/The longest repetitive substring" />
+            <option value="$PROJECT_DIR$/Problems/The number of distinct substrings" />
+            <option value="$PROJECT_DIR$/Problems/The number of equal substring pairs" />
+            <option value="$PROJECT_DIR$/Problems/The number of inversions" />
+            <option value="$PROJECT_DIR$/Problems/The number of required shifts" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
